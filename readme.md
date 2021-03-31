@@ -544,7 +544,7 @@ git merge upstream/master     # вливаем стянутую ветку maste
 ``` bash
 # указана последовательность действий:
 # сделали изменения, проиндексировали их, закоммитили в master, но ЕЩЁ НЕ ОТПРАВИЛИ (не делали git push)
-git checkout -b new-branch    # создаём новую вертку из master
+git checkout -b new-branch    # создаём новую ветку из master
 git checkout master           # переключаемся на master
 git reset HEAD~ --hard        # сдвигаем указатель (ветку) master на 1 коммит назад
 git checkout new-branch       # переключаемся обратно на новую ветку для продолжения работы
