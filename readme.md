@@ -360,6 +360,8 @@ git stash pop # вернуть сохраненные командой git stash
 
 ``` bash
 git remote -v              # показать список удалённых репозиториев, связанных с локальным
+git branch -r              # показать удаленные ветки
+git branch -a              # показать все ветки(локальные и удаленные)       
 git remote remove origin   # убрать привязку удалённого репозитория с сокр. именем origin
 git remote add origin https://github.com:nicothin/test.git # добавить удалённый репозиторий (с сокр. именем origin) с указанным URL
 git remote rm origin       # удалить привязку удалённого репозитория
