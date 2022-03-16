@@ -1,4 +1,7 @@
 # Шпаргалка по консольным командам Git
+
+### Добавляйте свои полезные команды и остальные полезности через `Pull request`.
+
 <!-- 
 *   [Общее](https://github.com/cyberspacedk/Git-commands/tree/master/git#Общее)
 *   [Консольные команды](https://github.com/cyberspacedk/Git-commands/tree/master/git#Консольные-команды)
