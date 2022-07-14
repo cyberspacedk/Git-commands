@@ -574,13 +574,8 @@ git commit -am "Navigation fixs"   # сделать коммит
 Простое решение: [указать git кешировать ваш пароль](https://help.github.com/articles/caching-your-github-password-in-git/).
 
 
+  ___
 
-## `.gitattributes`
+# `тильда тильда да`
 
-```
-* text=auto
-
-*.html diff=html
-*.css  diff=css
-*.scss diff=css
-```
+это пока хрень полная
